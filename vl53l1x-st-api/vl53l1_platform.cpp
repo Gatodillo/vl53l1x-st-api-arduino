@@ -67,7 +67,7 @@ This file is derived from vl53l1_platform.c in the STSW-IMG007 VL53L1X API.
 */
 
 #include <Arduino.h>
-#include <Wire.h>
+#include <i2c_t3.h>
 
 #include "vl53l1_platform.h"
 // #include "vl53l1_platform_log.h"

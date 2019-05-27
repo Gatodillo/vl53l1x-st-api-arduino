@@ -41,7 +41,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 *******************************************************************************/
 
-#include <Wire.h>
+#include <i2c_t3.h>
 #include "vl53l1_api.h"
 
 VL53L1_Dev_t                   dev;
